@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ATBAQ_LBACHA/static/css/main.1d828fc3.css",
-    "main.js": "/ATBAQ_LBACHA/static/js/main.d9732d39.js",
+    "main.css": "/ATBAQ_LBACHA/static/css/main.cd54afa3.css",
+    "main.js": "/ATBAQ_LBACHA/static/js/main.bd194d96.js",
     "static/js/787.248b23ba.chunk.js": "/ATBAQ_LBACHA/static/js/787.248b23ba.chunk.js",
     "index.html": "/ATBAQ_LBACHA/index.html",
-    "main.1d828fc3.css.map": "/ATBAQ_LBACHA/static/css/main.1d828fc3.css.map",
-    "main.d9732d39.js.map": "/ATBAQ_LBACHA/static/js/main.d9732d39.js.map",
+    "main.cd54afa3.css.map": "/ATBAQ_LBACHA/static/css/main.cd54afa3.css.map",
+    "main.bd194d96.js.map": "/ATBAQ_LBACHA/static/js/main.bd194d96.js.map",
     "787.248b23ba.chunk.js.map": "/ATBAQ_LBACHA/static/js/787.248b23ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d828fc3.css",
-    "static/js/main.d9732d39.js"
+    "static/css/main.cd54afa3.css",
+    "static/js/main.bd194d96.js"
   ]
 }
